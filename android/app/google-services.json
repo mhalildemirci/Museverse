@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686257982450",
+    "project_id": "museverse-85356",
+    "storage_bucket": "museverse-85356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686257982450:android:df0f95e75e53f1d90eb96b",
+        "android_client_info": {
+          "package_name": "com.example.museverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogu6Az9Ju63W6QcSOAgwTeQ7gFldxjxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
